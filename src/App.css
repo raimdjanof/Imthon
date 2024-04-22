@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #fff;
+}
+/* .fromAdd{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+} */
+.active{
+    padding: 0 0 0 10px;
+    background-color: #509CDB;
+    border-radius: 4px;
+}
+.features{
+    margin-top: 100px !important;
+}
